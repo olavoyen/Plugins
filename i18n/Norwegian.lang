@@ -6,13 +6,16 @@
  */
 
 {
+	"sEmptyTable":   "Det er ikke data tilgjengelig i tabellen",
 	"sProcessing":   "Laster...",
 	"sLengthMenu":   "Vis _MENU_ linjer",
 	"sZeroRecords":  "Ingen linjer matcher s&oslash;ket",
 	"sInfo":         "Viser _START_ til _END_ av _TOTAL_ linjer",
 	"sInfoEmpty":    "Viser 0 til 0 av 0 linjer",
 	"sInfoFiltered": "(filtrert fra _MAX_ totalt antall linjer)",
+	"sLoadingRecords": "Laster...",
 	"sInfoPostFix":  "",
+	"sInfoThousands":  " ",
 	"sSearch":       "S&oslash;k:",
 	"sUrl":          "",
   "oPaginate": {
@@ -20,5 +23,9 @@
 	    "sPrevious": "Forrige",
 	    "sNext":     "Neste",
 	    "sLast":     "Siste"
-   }
+   },
+   "oAria": {
+		"sSortAscending":  ": aktiver for &aring; sortere kolonnen stigende",
+		"sSortDescending": ": aktiver for &aring; sortere kolonnen synkende"
+	}
 }
